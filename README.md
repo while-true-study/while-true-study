@@ -34,7 +34,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
+  <a href="">
     <img src="https://img.shields.io/badge/Tstory-F37440?style=for-the-badge&logo=telegraph&logoColor=white" />&nbsp
   </a>
   <a href="mailto:aodaod128@naver.com">
