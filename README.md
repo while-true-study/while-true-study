@@ -35,7 +35,7 @@
   <a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/badge/Tstory-F37440?style=for-the-badge&logo=telegraph&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:aodaod128@naver.com">
     <img
       src="https://img.shields.io/badge/aodaod128@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
