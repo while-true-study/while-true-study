@@ -42,8 +42,8 @@
     <img
       src="https://img.shields.io/badge/aodaod128@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
+  <br>
   <a href="https://velog.io/@while-true-study/posts">
     <img src="https://img.shields.io/badge/-Velog-brightgreen" />&nbsp
   </a>
-  <br>
 </div>
