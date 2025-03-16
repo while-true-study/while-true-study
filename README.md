@@ -61,5 +61,5 @@
   <br>
   <a href="https://velog.io/@while-true-study/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Nevgiveup&show_icons=true&theme=gotham"> -->
-</div>
+</div> 
 
