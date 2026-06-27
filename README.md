@@ -1,49 +1,105 @@
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=while-true-study&layout=compact&theme=algolia) -->
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
-  
-</div> 
+<h2 align="center">Dong-Hoon Maeng</h2>
 
-<br>
+<p align="center">
+  B.S. Candidate in Computer Engineering, Hoseo University<br>
+  AI Graduate School Applicant · RAG Reliability · LLM Evaluation · Physical AI
+</p>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
- 
-<br>
-<h3 align="center">🎨 Design 🎨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />&nbsp
-</div>
+<p align="center">
+  <a href="mailto:aodaod128@naver.com">aodaod128@naver.com</a> ·
+  <a href="https://github.com/while-true-study">GitHub</a> ·
+  <a href="https://velog.io/@while-true-study/posts">Tech Blog</a>
+</p>
 
+---
 
-<br>
+### Research Focus
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:aodaod128@naver.com">
-    <img
-      src="https://img.shields.io/badge/aodaod128@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
-  </a>
-  <br>
-  <a href="https://velog.io/@while-true-study/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
-</div> 
+I am interested in evaluating when AI systems generate answers beyond reliable evidence.
 
+My current research focuses on:
+
+* RAG reliability and abstention behavior
+* Hard-negative unanswerable queries in Korean QA
+* LLM hallucination and evidence verification
+* SLM-to-LLM delegation for Korean question answering
+* Vision-language agent reliability and multimodal RAG
+* Physical AI and user-dependent mobility risk modeling
+
+---
+
+### Publications and Manuscripts
+
+**한국어 대학 규정 문서 RAG Hard-Negative에서 무응답 질의의 운영적 정의와 점수·프롬프트 기반 보류의 한계 분석**
+KIICE Domestic Conference Paper · Accepted · Outstanding Paper · Journal extension under review at the Journal of KIICE · First author
+Keywords: RAG, hard-negative unanswerable query, abstention, evidence verification
+
+**Affordance Gap 기반 이동약자별 이동 위험 분석과 개인화 경로 추천**
+Domestic conference paper · Accepted · Presented · First author
+Keywords: affordance gap, accessibility, physical AI, user-group disparity
+
+**Robust Temperature and Humidity Estimation from Smart Bedding Pressure Sequences Using Movement and Contact-Structure Features**
+ICFICE 2026 · International conference paper · Accepted for oral presentation · First author
+Keywords: TCN, smart bedding, temperature and humidity estimation, movement feature, contact-structure feature
+
+**한국어 질의응답에서 소형 언어모델의 대형 언어모델 위임 기준 분석**
+Manuscript in preparation · First author
+Keywords: SLM, LLM delegation, Korean question answering, uncertainty estimation, cost-performance trade-off
+
+---
+
+### Research Projects
+
+**RAG Reliability and Abstention Evaluation**
+
+* Built Korean university regulation QA evaluation sets for answerable, general-unanswerable, and hard-negative-unanswerable queries
+* Compared retrieval-score-based and prompt-based abstention strategies
+* Analyzed unsupported but semantically similar queries that caused over-answering or hallucination-like behavior
+
+**Physical AI Affordance Gap and Mobility Risk Modeling**
+
+* Proposed an Affordance Gap metric to quantify user-group disparities in perceived passability
+* Computed Affordance Gap, Wheelchair Disadvantage Gap, and scenario-weighted relative risk scores
+* Demonstrated user-specific least-risk route recommendation using a Dijkstra-based path-cost function
+
+**Smart Bedding Time-Series Regression**
+
+* Built a TCN-based fusion framework to estimate temperature and humidity from smart bedding pressure sequences without direct microclimate sensors
+* Evaluated movement and contact-structure feature fusion using window-weighted micro metrics and subject-level macro metrics
+
+---
+
+### Study Repository
+
+I am currently rebuilding my AI foundations through reproducible PyTorch implementations and structured study notes.
+
+* Dive into Deep Learning study notes
+* PyTorch implementations from scratch
+* Linear algebra, calculus, probability, and deep learning fundamentals
+* RAG evaluation and LLM reliability experiments
+
+Main study repository: <a href="https://github.com/while-true-study/ai-grad-prep">ai-grad-prep</a>
+
+---
+
+### Technical Skills
+
+**AI / ML**
+Python, PyTorch, RAG evaluation, LLM-based evaluation, prompt-based abstention analysis, TCN-based time-series modeling
+
+**Data and Experimentation**
+Data preprocessing, experimental result analysis, Selenium, BeautifulSoup
+
+**Backend and Research Infrastructure**
+Java, Spring Boot, REST API, JPA / Hibernate, PostgreSQL, MySQL, Docker, AWS EC2 / ECS / RDS / SQS, GitHub Actions
+
+**Collaboration**
+Git, GitHub, technical documentation, paper writing
+
+---
+
+### Contact
+
+* Email: [aodaod128@naver.com](mailto:aodaod128@naver.com)
+* Blog: https://velog.io/@while-true-study/posts
+* GitHub: https://github.com/while-true-study
