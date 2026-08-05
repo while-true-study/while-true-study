@@ -61,4 +61,4 @@ Python, PyTorch, retrieval-augmented generation, LLM evaluation, TCN, time-serie
 Dataset construction, data preprocessing, evaluation pipeline design, statistical analysis, Selenium, BeautifulSoup
 
 **Backend and Infrastructure**  
-Java, Spring Boot, PostgreSQL, MySQL, Docker, AWS, GitHub Actions
+Java, Spring Boot, PostgreSQL, MySQL, Docker, AWS, GitHub Actions 
