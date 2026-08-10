@@ -2,7 +2,7 @@
 
 <p align="center">
   B.S. Candidate in Computer Engineering at Hoseo University<br>
-  Trustworthy RAG · LLM Evaluation · Evidence-grounded Question Answering
+  Trustworthy RAG · LLM Evaluation · Evidence-grounded Question Answering 
 </p>
 
 <p align="center">
