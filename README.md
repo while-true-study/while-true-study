@@ -2,7 +2,7 @@
 
 <p align="center">
   B.S. Candidate in Computer Engineering at Hoseo University<br>
-  Trustworthy RAG · LLM Evaluation · Evidence-grounded Question Answering 
+  Trustworthy AI · Multimodal QA · RAG Reliability · LLM/VLM Evaluation
 </p>
 
 <p align="center">
@@ -15,38 +15,43 @@
 
 ### Research Interests
 
-My primary research interest is the reliability of retrieval-augmented and language-model-based question-answering systems. I focus on identifying when a model lacks sufficient evidence to answer and evaluating whether it should abstain rather than generate an unsupported response.
+My research focuses on evaluating and improving the reliability of language and vision-language models, particularly when models must determine whether available evidence is sufficient to support an answer.
 
-* Trustworthy retrieval-augmented generation
-* Unanswerable and hard-negative queries in Korean QA
-* Abstention, hallucination, and evidence verification
-* Evaluation methodology for LLM-based QA systems
+* Trustworthy AI and model reliability
+* LLM and VLM evaluation
+* Multimodal question answering and reasoning
+* Retrieval-augmented generation and evidence grounding
+* Unanswerable queries, abstention, and hallucination
 * Sensor-based time-series modeling
 
 ---
 
-### Selected Research
+### Selected Publications & Research
 
-**RAG Hard-Negative Unanswerable Queries in Korean University Regulations**  
-KIICE Conference · Outstanding Paper · Journal extension under review · First author
+**Operational Definition of Hard-Negative Unanswerable Queries and Evaluation of Answer Abstention Performance in University Regulatory Document RAG**  
+*Journal of the Korea Institute of Information and Communication Engineering (JKIICE)*, Vol. 30, No. 8, pp. 1402–1407, Aug. 2026  
+KCI Indexed · First author  
+DOI: https://doi.org/10.6109/jkiice.2026.30.8.1402  
+Extended from a KIICE conference paper selected as an Outstanding Paper.
 
 **Affordance Gap-based Mobility Risk Analysis and Personalized Route Recommendation**  
 Korean Society for Quality of Life Informatics · Presented · First author
 
 **Robust Temperature and Humidity Estimation from Smart Bedding Pressure Sequences**  
-ICFICE 2026 · Oral presentation · First author
+ICFICE 2026 · Oral Presentation · First author
 
 ---
 
 ### Research and Engineering
 
-I develop reproducible experiments and PyTorch implementations to connect theoretical understanding with practical AI research.
+I build reproducible experimental pipelines to study model behavior, evaluation methodology, and failure cases across language, multimodal, and sensor-based AI systems.
 
-* Implementing machine-learning and deep-learning models in plain PyTorch
-* Designing datasets and evaluation protocols for RAG reliability
-* Analyzing abstention thresholds, retrieval scores, and model failure cases
-* Conducting time-series regression experiments using pressure-sensor data
-* Documenting experiments, assumptions, and results for reproducibility
+* Designing datasets and evaluation protocols for reliable AI systems
+* Implementing and reproducing deep-learning models in PyTorch
+* Evaluating LLM/VLM reasoning, abstention, and failure cases
+* Analyzing retrieval, reranking, evidence grounding, and hallucination
+* Conducting time-series regression experiments using sensor data
+* Building reproducible experiment pipelines and documenting results
 
 Main repository: [ai-grad-prep](https://github.com/while-true-study/ai-grad-prep)
 
@@ -54,11 +59,11 @@ Main repository: [ai-grad-prep](https://github.com/while-true-study/ai-grad-prep
 
 ### Technical Skills
 
-**Machine Learning**  
-Python, PyTorch, retrieval-augmented generation, LLM evaluation, TCN, time-series regression
+**Machine Learning & AI**  
+Python, PyTorch, Hugging Face Transformers, RAG, LLM/VLM Evaluation, TCN, Time-Series Modeling
 
-**Experimentation and Data**  
-Dataset construction, data preprocessing, evaluation pipeline design, statistical analysis, Selenium, BeautifulSoup
+**Experimentation & Data**  
+Dataset Construction, Data Preprocessing, Evaluation Pipeline Design, Statistical Analysis, FAISS, pandas, NumPy
 
-**Backend and Infrastructure**  
-Java, Spring Boot, PostgreSQL, MySQL, Docker, AWS, GitHub Actions 
+**Backend & Infrastructure**  
+Java, Spring Boot, PostgreSQL, MySQL, Docker, AWS, GitHub Actions
