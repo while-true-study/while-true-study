@@ -1,4 +1,4 @@
-<h2 align="center">Dong-Hoon Maeng</h2>
+<h2 align="center">Dong-Hoon Maeng</h2> 
 
 <p align="center">
   B.S. Candidate in Computer Engineering at Hoseo University<br>
