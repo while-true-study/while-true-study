@@ -47,6 +47,10 @@ Dataset Construction, Data Preprocessing, Evaluation Pipeline Design, Statistica
 **Backend & Infrastructure**  
 Java, Spring Boot, PostgreSQL, MySQL, Docker, AWS, GitHub Actions
 
-### Projects
+### Research Projects
 
-Research code and experiments: [ai-grad-prep](https://github.com/while-true-study/ai-grad-prep)
+**[Smart-Mat Personalization](https://github.com/while-true-study/smartmat-personalization)** · Ongoing Research  
+Evaluating unseen-subject generalization and chronological user adaptation for pressure-based temperature and humidity estimation.
+
+**[AI Graduate Research Prep](https://github.com/while-true-study/ai-grad-prep)**  
+Reproducible experiments on deep learning, LLM/VLM evaluation, and model reliability.
